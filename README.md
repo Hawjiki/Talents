@@ -10,6 +10,19 @@ All credit for the original work goes to **Atraxian and awjerfaoiwejfoiajwe**. M
 
 All spells used by the system must be visible in the spellbook for it to function correctly. This requires HEAVY edits to spell.dbc. Simply removing bitmask 128 from the talent spells will allow them to appear in your spellbook.
 
+Replace the example IDs with your talent spell IDs. This removes bitmask 128 while preserving other flags, only when `Attributes > 128`.
+
+```sql
+UPDATE `db_spell_12340`
+SET `Attributes` = `Attributes` & 4294967167
+WHERE `Attributes` > 128
+  AND (`Attributes` & 128) = 128
+  AND `id` IN (
+      12345, 12346, 12347
+  );
+```
+Then just update your spell.dbc with the changes. All talents should then appear within your spellbook!
+
 ## Changes
 
 ### Database Integration
