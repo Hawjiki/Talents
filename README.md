@@ -4,6 +4,8 @@ This project is a continuation of [Custom Talent Tree — AIO](https://www.wowmo
 
 All credit for the original work goes to **Atraxian, awjerfaoiwejfoiajwe, and Foereaper**. My contributions expand and complete parts of the existing system, with the assist of AI.
 
+![ui window](screenshots/talentUI.png)
+
 ## Requirements
 
 All spells used by the system must be visible in the spellbook for it to function correctly. This requires HEAVY edits to spell.dbc. Simply removing bitmask 128 from the talent spells will allow them to appear in your spellbook.
@@ -17,6 +19,8 @@ All spells used by the system must be visible in the spellbook for it to functio
 - Added a dedicated table for glyphs.
 - Added `felskorn_talent_builds` and `felskorn_talent_build_spells` to track the active specialization and its learned spells.
 - Populated talents for all classes.
+
+![ranks window](screenshots/tooltipranks.png)
 
 ### Talent Progression and Points
 
@@ -38,6 +42,8 @@ All spells used by the system must be visible in the spellbook for it to functio
 - Added support for glyph-tab backgrounds.
 - Added circular glyph visuals.
 
+![Glyphs window](screenshots/glyphs.png)
+
 ### Interface and Specializations
 
 - Added Main and Secondary specialization support.
@@ -50,6 +56,7 @@ You can rename the `felskorn` references in the Lua scripts and database tables 
 
 Base class talents are populated, but the General Class, Heroic, and Glyphs tabs still require configuration.
 
+![trees window](screenshots/treepop.png)
 
 The Mage setup was created by Atraxian as an example. The Paladin setup was created as an additional example for this version. **The Paladin Fire tab is disabled by default.**
 
@@ -57,4 +64,4 @@ The Mage setup was created by Atraxian as an example. The Paladin setup was crea
 
 This project has not yet undergone thorough testing. Further testing and configuration are recommended before using it on a live server. No support will be giving, as we've(Felskorn) use a updated and more stable version of this.
 
-[Preview](https://github.com/Hawjiki/Talents/blob/main/Screenshots/World%20of%20Warcraft%202026-10-08%2009-02-24.mp4)
+[Watch Preview](https://github.com/Hawjiki/Talents/blob/main/Screenshots/World%20of%20Warcraft%202026-10-08%2009-02-24.mp4)
