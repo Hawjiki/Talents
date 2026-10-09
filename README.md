@@ -4,7 +4,7 @@ This project is a continuation of [Custom Talent Tree — AIO](https://www.wowmo
 
 All credit for the original work goes to **Atraxian, awjerfaoiwejfoiajwe, and Foereaper**. My contributions expand and complete parts of the existing system, with the assist of AI.
 
-![ui window](screenshots/talentUI.png)
+![Talent UI](Screenshots/talentUI.png)
 
 ## Requirements
 
