@@ -64,4 +64,4 @@ The Mage setup was created by Atraxian as an example. The Paladin setup was crea
 
 This project has not yet undergone thorough testing. Further testing and configuration are recommended before using it on a live server. No support will be giving, as we've(Felskorn) use a updated and more stable version of this.
 
-[Watch Preview](https://github.com/Hawjiki/Talents/blob/main/Screenshots/World%20of%20Warcraft%202026-10-08%2009-02-24.mp4)
+[Watch Preview](https://youtu.be/oxDrn_6y7z8)
