@@ -2,7 +2,7 @@
 
 This project is a continuation of [Custom Talent Tree — AIO](https://www.wowmodding.net/files/file/369-custom-talent-tree-aio/).
 
-All credit for the original work goes to **Atraxian, awjerfaoiwejfoiajwe, and Foereaper**. My contributions expand and complete parts of the existing system, with the assist of AI.
+All credit for the original work goes to **Atraxian and awjerfaoiwejfoiajwe**. My contributions expand and complete parts of the existing system, with the assist of AI.
 
 ![Talent UI](Screenshots/talentUI.png)
 
