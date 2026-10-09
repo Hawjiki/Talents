@@ -62,6 +62,6 @@ The Mage setup was created by Atraxian as an example. The Paladin setup was crea
 
 ## Testing Status
 
-This project has not yet undergone thorough testing. Further testing and configuration are recommended before using it on a live server. No support will be giving, as we've(Felskorn) use a updated and more stable version of this.
+This project has not yet undergone thorough testing. Further testing and configuration are recommended before using it on a live server. No support will be given, as we've(Felskorn) use a updated and more stable version of this.
 
 [![Watch Preview](https://img.youtube.com/vi/oxDrn_6y7z8/hqdefault.jpg)](https://youtu.be/oxDrn_6y7z8)
