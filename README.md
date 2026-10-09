@@ -20,7 +20,7 @@ All spells used by the system must be visible in the spellbook for it to functio
 - Added `felskorn_talent_builds` and `felskorn_talent_build_spells` to track the active specialization and its learned spells.
 - Populated talents for all classes.
 
-![ranks window](screenshots/tooltipranks.png)
+![Talent ranks](Screenshots/tooltipranks.png)
 
 ### Talent Progression and Points
 
@@ -42,7 +42,7 @@ All spells used by the system must be visible in the spellbook for it to functio
 - Added support for glyph-tab backgrounds.
 - Added circular glyph visuals.
 
-![Glyphs window](screenshots/glyphs.png)
+![Glyphs](Screenshots/glyphs.png)
 
 ### Interface and Specializations
 
@@ -56,7 +56,7 @@ You can rename the `felskorn` references in the Lua scripts and database tables 
 
 Base class talents are populated, but the General Class, Heroic, and Glyphs tabs still require configuration.
 
-![trees window](screenshots/treepop.png)
+![Talent trees](Screenshots/treepop.png)
 
 The Mage setup was created by Atraxian as an example. The Paladin setup was created as an additional example for this version. **The Paladin Fire tab is disabled by default.**
 
