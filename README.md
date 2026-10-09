@@ -1,4 +1,5 @@
 # Custom Talent Tree — AIO
+![Talent](Screenshots/talents.png)
 
 This project is a continuation of [Custom Talent Tree — AIO](https://www.wowmodding.net/files/file/369-custom-talent-tree-aio/).
 
