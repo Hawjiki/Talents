@@ -2,6 +2,8 @@
 
 This change displays active abilities first and passive spells afterward in the spellbook, preserving the existing order within each group.
 
+![Talents](Screenshots/talentsdisplay.gif)
+
 These instructions apply to the custom WotLK 3.3.5a `SpellBookFrame.lua` containing `spellbookCustomRender` and `SpellBookFrame_UpdateSpellRender()`.
 
 ## 1. Add the sorting function
