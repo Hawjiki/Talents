@@ -50,6 +50,9 @@ You can rename the `felskorn` references in the Lua scripts and database tables 
 
 Base class talents are populated, but the General Class, Heroic, and Glyphs tabs still require configuration.
 
+[Preview](screenshots/https://github.com/Hawjiki/Talents/blob/main/Screenshots/World%20of%20Warcraft%202026-10-08%2009-02-24.mp4)
+
+
 The Mage setup was created by Atraxian as an example. The Paladin setup was created as an additional example for this version. **The Paladin Fire tab is disabled by default.**
 
 ## Testing Status
